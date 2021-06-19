@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ak1261
-- 👀 I’m interested in Java, Go, etc.
-- 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java, Golang, etc.
+- 🌱 I’m currently learning Golang.
+- 💞️ I’m looking to collaborate on Golang.
 - 📫 How to reach me aijun.kang@gmail.com
 
 <!---
